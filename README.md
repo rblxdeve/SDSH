@@ -41,3 +41,5 @@ sandum51 - Programmer
 Friendly Bot - VsCode Language Support Extension
 
 ## Disclaimer: Note that running a webserver on your local machine would require to you implent many security measures to prevent attacks ##
+
+ ![icon-removebg-preview](https://user-images.githubusercontent.com/127463686/225770209-80aed96c-889f-496d-8148-b62d42652006.png)
